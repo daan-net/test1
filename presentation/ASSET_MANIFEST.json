@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repository": "test1",
+  "display_name": "Test One",
+  "category": "Infrastructure",
+  "status": "Concept",
+  "summary": "Minimal experimental repository used to verify project workflow and presentation-pipeline behavior.",
+  "source": "PROJECT_PRESENTATION.md + presentation asset pass",
+  "assets": {
+    "hero": "presentation/hero.webp",
+    "card": "presentation/card.webp",
+    "key_art": "presentation/key-art.webp"
+  },
+  "public_safe": true,
+  "generated_for": "danielneagu.ro Project Hub",
+  "notes": "Presentation artwork; not a literal product screenshot."
+}
